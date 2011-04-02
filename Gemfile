@@ -49,4 +49,7 @@ group :development, :test do
   gem "machinist", "~>1.0.6"
   gem "faker", '~>0.3.1'
   gem "rcov", "~>0.9.8"
+  gem "cucumber-rails"
+  gem "pickle"
+  gem "database_cleaner"
 end
